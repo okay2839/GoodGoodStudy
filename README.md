@@ -1,4 +1,1 @@
-# GoodGoodStudy
-Java
-2019-06-25
-#GitHub初学者
+# 初学者 2019-06-27
